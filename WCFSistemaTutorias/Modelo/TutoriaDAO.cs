@@ -7,5 +7,10 @@ namespace WCFSistemaTutorias.Modelo
 {
     public class TutoriaDAO
     {
+        public static bool RecuperarHola()
+        {
+
+            return true;
+        }
     }
 }
