@@ -66,7 +66,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataClassesTutoriaUV.designer.cs">
+    <Compile Include="Modelo\DataClassesTutoriaUV.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DataClassesTutoriaUV.dbml</DependentUpon>
@@ -84,12 +84,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="libman.json" />
-    <Content Include="DataClassesTutoriaUV.dbml">
+    <Content Include="Modelo\DataClassesTutoriaUV.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
       <LastGenOutput>DataClassesTutoriaUV.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </Content>
-    <None Include="DataClassesTutoriaUV.dbml.layout">
+    <None Include="Modelo\DataClassesTutoriaUV.dbml.layout">
       <DependentUpon>DataClassesTutoriaUV.dbml</DependentUpon>
     </None>
     <None Include="Web.Debug.config">
