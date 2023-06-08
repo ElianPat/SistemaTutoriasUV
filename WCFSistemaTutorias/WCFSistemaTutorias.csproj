@@ -71,6 +71,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataClassesTutoriaUV.dbml</DependentUpon>
     </Compile>
+    <Compile Include="Modelo\AcademicoDAO.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
     </Compile>
@@ -79,7 +80,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Modelo\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="libman.json" />

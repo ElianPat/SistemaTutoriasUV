@@ -12,14 +12,8 @@ namespace WCFSistemaTutorias
     [ServiceContract]
     public interface IService1
     {
-
         [OperationContract]
-        string GetData(int value);
-
-        [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
-
-        // TODO: agregue aquí sus operaciones de servicio
+        Boolean IniciarSesion(int numeroEmpleado, string password);
     }
 
 
