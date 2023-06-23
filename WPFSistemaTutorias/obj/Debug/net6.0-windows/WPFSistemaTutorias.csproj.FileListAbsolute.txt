@@ -1,0 +1,252 @@
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.exe
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.deps.json
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.runtimeconfig.json
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\App.g.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.lref
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.g.resources
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfo.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\refint\WPFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.genruntimeconfig.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\ref\WPFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.g.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarFecha.g.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.baml
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarFecha.baml
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CopyComplete
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\modificarFecha.g.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\modificarFecha.baml
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarHorarioSesion.g.cs
+D:\VISUAL STUDIO\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarHorarioSesion.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.AssemblyReference.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\modificarFecha.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarFecha.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarHorarioSesion.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.lref
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.exe
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.deps.json
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.runtimeconfig.json
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\modificarFecha.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarFecha.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\registrarHorarioSesion.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.g.resources
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfoInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfo.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CoreCompileInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CopyComplete
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\refint\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.genruntimeconfig.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\ref\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ComentariosGenerales.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ConsultaProblematica.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\InicioSesion.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\PorcentajesReporteTutoria.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\Problematica.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RecuperarProblematicas.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteGeneral.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteTutoriaAcademica.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.exe
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.deps.json
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.runtimeconfig.json
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.AssemblyReference.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\AsignarTutorAEstudiante.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ComentariosGenerales.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ConsultaProblematica.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\InicioSesion.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ModificarFecha.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\PorcentajesReporteTutoria.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\Problematica.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RecuperarProblematicas.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarAcademico.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarEstudiante.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarExperienciaEducativa.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarFecha.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarHorarioSesion.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarProgramaEducativo.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteGeneral.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteTutoriaAca.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\SeleccionarPeriodoSesion.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias_MarkupCompile.lref
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\AsignarTutorAEstudiante.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ComentariosGenerales.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ConsultaProblematica.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\InicioSesion.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\MainWindow.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ModificarFecha.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\PorcentajesReporteTutoria.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\Problematica.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RecuperarProblematicas.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarAcademico.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarEstudiante.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarExperienciaEducativa.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarFecha.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarHorarioSesion.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\RegistrarProgramaEducativo.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteGeneral.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\ReporteTutoriaAca.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\XAML\SeleccionarPeriodoSesion.baml
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.g.resources
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfoInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.AssemblyInfo.cs
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CoreCompileInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.csproj.CopyComplete
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\refint\WPFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\WPFSistemaTutorias.genruntimeconfig.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WPFSistemaTutorias\obj\Debug\net6.0-windows\ref\WPFSistemaTutorias.dll

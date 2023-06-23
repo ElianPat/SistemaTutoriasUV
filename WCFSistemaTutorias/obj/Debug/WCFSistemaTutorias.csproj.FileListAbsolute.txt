@@ -1,0 +1,21 @@
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll.config
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.pdb
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.dll
+D:\VISUAL STUDIO\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll.config
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\bin\WCFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.AssemblyReference.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.CoreCompileInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll.config
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\bin\WCFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\bin\WCFSistemaTutorias.pdb
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.AssemblyReference.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.csproj.CoreCompileInputs.cache
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.dll
+C:\Users\miran\Downloads\SistemaTutoriasUV2\WCFSistemaTutorias\obj\Debug\WCFSistemaTutorias.pdb

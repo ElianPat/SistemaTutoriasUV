@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFSistemaTutorias.Diana.ComentariosGenerales"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSistemaTutorias.Diana"
+        mc:Ignorable="d"
+        Title="Comentarios Generales" Height="426" Width="468">
+    <Grid Height="NaN" Width="NaN">
+        <Label Content="Ingresa los comentarios generales de la sesión de tutoría" HorizontalAlignment="Left" Margin="34,41,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+        <TextBox x:Name="tbComentariosGenerales" HorizontalAlignment="Left" Margin="34,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="394" Height="222" Background="#FFECECEC"/>
+        <Button Content="Guardar" HorizontalAlignment="Left" Margin="204,357,0,0" VerticalAlignment="Top" Background="#FF8BAB9A" Height="27" Width="105" Click="clicRegistrarComentarios"/>
+        <Button Content="Cancelar" HorizontalAlignment="Left" Margin="323,357,0,0" VerticalAlignment="Top" Background="#FFEA8F8F" Height="27" Width="105" Click="clicRegresar"/>
+    </Grid>
+</Window>

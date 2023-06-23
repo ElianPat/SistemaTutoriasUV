@@ -66,12 +66,20 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modelo\DataClassesTutoriaUV.designer.cs">
+    <Compile Include="DataClassesTutoriaUV.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DataClassesTutoriaUV.dbml</DependentUpon>
     </Compile>
     <Compile Include="Modelo\AcademicoDAO.cs" />
+    <Compile Include="Modelo\EstudianteDAO.cs" />
+    <Compile Include="Modelo\ExperienciaEducativaDAO.cs" />
+    <Compile Include="Modelo\PeriodoEscolarDAO.cs" />
+    <Compile Include="Modelo\ProblematicaDAO.cs" />
+    <Compile Include="Modelo\ProgramaEducativoDAO.cs" />
+    <Compile Include="Modelo\ReporteGeneralDAO.cs" />
+    <Compile Include="Modelo\ReporteTutoriaDAO.cs" />
+    <Compile Include="Modelo\SesionDAO.cs" />
     <Compile Include="Modelo\TutoriaDAO.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
@@ -84,12 +92,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="libman.json" />
-    <Content Include="Modelo\DataClassesTutoriaUV.dbml">
+    <Content Include="DataClassesTutoriaUV.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
       <LastGenOutput>DataClassesTutoriaUV.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </Content>
-    <None Include="Modelo\DataClassesTutoriaUV.dbml.layout">
+    <None Include="DataClassesTutoriaUV.dbml.layout">
       <DependentUpon>DataClassesTutoriaUV.dbml</DependentUpon>
     </None>
     <None Include="Web.Debug.config">
